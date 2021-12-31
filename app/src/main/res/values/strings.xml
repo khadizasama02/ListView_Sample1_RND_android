@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ListView_Sample1_RND</string>
+    <string-array name="countries_array">
+        <item>Bangladesh</item>
+        <item>Canada</item>
+        <item>Ameriaca</item>
+        <item>India</item>
+        <item>Afganisthan</item>
+        <item>poland</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+    </string-array>
+    <integer-array name="number_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </integer-array>
+</resources>
